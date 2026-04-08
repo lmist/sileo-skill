@@ -10,6 +10,12 @@ Works with any agent that supports the [Agent Skills](https://agentskills.io) fo
 npx skills add lmist/sileo-skill
 ```
 
+## Preview
+
+| Success | Error | Action |
+|---------|-------|--------|
+| ![Success toast](assets/sileo-success.png) | ![Error toast](assets/sileo-error.png) | ![Action toast](assets/sileo-action.png) |
+
 ## What it does
 
 When you mention toasts, notifications, snackbars, or sileo by name, your agent loads this skill and knows how to:
