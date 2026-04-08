@@ -6,18 +6,8 @@ Works with any agent that supports the [Agent Skills](https://agentskills.io) fo
 
 ## Install
 
-Depends on your agent. Examples:
-
 ```bash
-# Claude Code
-claude skill install --from https://github.com/lmist/sileo-skill
-
-# Cursor — add to .cursor/skills/
-
-# Copilot — add to .github/skills/
-
-# Or just clone into your project's skills directory
-git clone https://github.com/lmist/sileo-skill .skills/sileo
+npx skills add lmist/sileo-skill
 ```
 
 ## What it does
